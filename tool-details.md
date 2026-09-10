@@ -70,3 +70,6 @@ Additional notes:
 - `CLA_ISSUE_TEMPLATE` is the name of the issue template in the repository that records the CLA commitments. It is used to create a proper "Approve CLA commitment" link when the CLA checker asks the contributor to approve the CLA.
 - `CLA_ISSUE_ANCHOR` is the name of the section that contains the repository for which the CLA commitment is made in the issue that records a CLA commitment. It is used to revalidate all open PRs from the contributor when a CLA commitment gets recorded. This anchor needs to match the relevant section title in the CLA commitment issue template.
 - `WEBHOOK_PATH` sets the callback URL. Make sure that the Webhook URL in the GitHub app info page is the right one.
+
+## License
+[Apache-2.0](LICENSE) © 2026 [World Wide Web Consortium](https://www.w3.org/)
