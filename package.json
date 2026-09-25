@@ -3,7 +3,7 @@
   "dependencies": {
     "@octokit/plugin-paginate-rest": "^15.0.0",
     "@octokit/webhooks": "^14.2.0",
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.0",
     "octokit": "^5.0.5"
   }
 }
