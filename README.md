@@ -80,6 +80,11 @@ Once in a while, notifications can get lost, or the checker may fail to process 
 
 In general, no. However, there may be situations where it is appropriate to remove a commitment (e.g., it was made in error, it was spam, etc.). This can be done manually by the W3C staff, and the GitHub history should be used to record the rationale transparently.
 
+### We get some pull requests from GitHub actions. How do we handle those?
+
+Contact the W3C staff, who can add except bots for your repo.
+
+
 ## For W3C Open Source Project staff
 
 See [detailed tool information](tool-details.md) for more information about setting up the app itself, configuring the CLA commitments repo, etc.
